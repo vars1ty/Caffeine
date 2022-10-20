@@ -20,5 +20,5 @@
 </h3>
 
 <p align="center">
-    Not yet, you'll have to build it from source (
+    Not yet, you'll have to build it from source (<code>cargo build --release</code>) and then run it.
 </p>
